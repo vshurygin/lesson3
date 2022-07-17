@@ -2,5 +2,6 @@
 * [ ] Сходить на улицу
 * [x] Сходить в магазин
 * [ ] Купить хлеб
-* [x] Сделать ДЗ 
-[![Видосик](https://sun9-20.userapi.com/impf/c845121/v845121223/1e37b8/zRt8BB0FOI0.jpg?size=320x249&quality=96&sign=4fadabe93b0b7bce9ec26fd5855514d3)](https://youtu.be/0JDWgeQsxgc)
+* [x] Сделать ДЗ
+ 
+[![Видосик](https://sun9-69.userapi.com/impg/E6xfXbJIDbXJEzO9KHicCvyYPOsfDxmNkbsBQA/Q9Etv0qUIEE.jpg?size=50x0&quality=90&crop=0,0,1333,1333&sign=7a7e51c1ba7e81dde83da47e862bea0d&ava=1)](https://youtu.be/0JDWgeQsxgc)
